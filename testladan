@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title> Coffee Shop</title>
+    <!-- When importing a JS file, we use a script element -->
+    <script src="main1.js"></script>
+    <link rel="stylesheet" href="java.css">
+    <img src="CoffeeStomachPains-533906501-770x533-1.jpeg" alt="coffee"style="width:200px;height:100x;"class="center">
+
+</head>
+
+<body>
+    <h1>Choose your Java Brew</h1>
+    <h3>Lattes, flat whites and more!</h3>
+</body>
+
+</html>
